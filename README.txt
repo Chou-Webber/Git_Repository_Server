@@ -1,9 +1,9 @@
 Hi, Welcome To Git World
 
-This is a Second modify.
+Second modify by master.
 
-This is Third modify.
+Third modify by master.
 
-This is Fourth modify by Branch B-1.
+Fourth modify by Branch B-1.
  
 add one modify by Branch B-1.
